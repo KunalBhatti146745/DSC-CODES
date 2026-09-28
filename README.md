@@ -25,8 +25,13 @@ This repository contains the DSC++ codes I do everyday as per guidelines.
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/KunalBhatti146745/DSC-CODES/tree/master/0503-next-greater-element-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KunalBhatti146745/DSC-CODES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/KunalBhatti146745/DSC-CODES/tree/master/0503-next-greater-element-ii) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KunalBhatti146745/DSC-CODES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
